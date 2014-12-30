@@ -1,1 +1,1 @@
-Solutions to the [Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/).
+Solutions to the [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/).
